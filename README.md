@@ -39,7 +39,7 @@ Open [`https://tayyabaw.github.io/Ancient/`](https://tayyabaw.github.io/Ancient/
 ```bash
 $ git clone https://github.com/TAYYABAW/Ancient.git
 
-$ cd Dexify
+$ cd Ancient
 ```
 
 **Follow the steps below**
@@ -65,7 +65,7 @@ $ npm start
 # Clone your fork
 $ git clone https://github.com/TAYYABAW/Ancient.git
 
-$ cd Dexify
+$ cd Ancient
 
 # Create a branch with your feature
 $ git checkout -b your-feature
